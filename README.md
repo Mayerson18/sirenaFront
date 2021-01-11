@@ -1,10 +1,10 @@
-# Getting Started with Create React App
+# Environment
+please add this environment:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+URL_API=
 
 ## Available Scripts
 
-In the project directory, you can run:
 
 ### `npm start`
 
